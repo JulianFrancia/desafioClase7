@@ -1,0 +1,20 @@
+[
+	{
+		"title": "escuadra",
+		"precio": 50,
+		"thumbnail": "urlfoto",
+		"id": 1
+	},
+	{
+		"title": "compas",
+		"precio": 20,
+		"thumbnail": "urlfoto2",
+		"id": 2
+	},
+	{
+		"title": "regla",
+		"precio": 25,
+		"thumbnail": "urlfoto3",
+		"id": 3
+	}
+]
